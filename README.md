@@ -1,4 +1,4 @@
-# part-4-ai-solution-design
+# part-4-AI Solution Design for a Business Problem
 # AI Solution Design – Healthcare Domain
 
 ## Problem Statement
